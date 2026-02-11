@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import profileImg from "../assets/profile.png";
+import profileImg from "../assets/Profile.png";
 
 const Home = () => {
   const [text] = useTypewriter({
