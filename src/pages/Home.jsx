@@ -49,11 +49,7 @@ const Home = () => {
               View Projects
             </NavLink>
 
-            <a
-              href="/public/Deloitte.pdf"
-              download
-              className="btn secondary resume-btn"
-            >
+            <a href="/resume.pdf" download className="btn secondary resume-btn">
               <FaDownload /> Resume
             </a>
           </div>
